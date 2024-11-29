@@ -1,66 +1,9 @@
-snuff
-[You can use numbers for reference-style link definitions][1]
+[The-Ultimate-Markdown-Cheat-Sheet][reference text]
 
+[The-Ultimate-Markdown-Cheat-Sheet][1]
 
+[Markdown-Cheat-Sheet]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[1]
-test
+[reference text]: https://github.com/lifeparticle/Markdown-Cheatsheet
+[1]: https://github.com/lifeparticle/Markdown-Cheatsheet
+[Markdown-Cheat-Sheet]: https://github.com/lifeparticle/Markdown-Cheatsheet
