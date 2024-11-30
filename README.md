@@ -27,14 +27,10 @@
 
 [PHONE NUMBERS](#PHONE-NUMBERS)
 [USERNAME CHECK](#USERNAME-CHECK)
-
 [EMAIL CHECK//DATA BREACH](#EMAIL-CHECK)
-
-[](#)
-
-[](#)
-
-[](#)
+[PEOPLE OSINT](#PEOPLE-OSINT)
+[REALTIME SOCIALMEDIA SEARCH](#REALTIME-SOCIAMEDIA-SEARCH)
+[SOCIALMEDIA TOOLS FACEBOOK|TWITTER|INSTAGRAM|PINTEREST|REDDIT|](#SOCIAL-TOOLS)
 
 [](#)
 
@@ -292,6 +288,157 @@
 - [infoga](https://www.infoga.io/)
 - [findemail](https://findemail.io/)
 - [minelead](https://minelead.io/)
+
+## PEOPLE-OSINT
+* [People Search/Nettools](https://nettools.live)
+* [People Search](https://foller.me/people-search/h)
+* [First Last Name Search](http://snitch.name/)
+* [411 (US)](http://www.411.com) - Search by person, phone number, address, and business. Limited free info, premium data upsell.
+* [192 (UK)](http://www.192.com) - Search by person, business, address. Limited free info, premium data upsell.
+* [Ancestry](http://www.ancestry.com) - Premium data, free trial with credit card.
+* [Black Book Online](https://www.blackbookonline.info) - Free. Nationwide directory of public record lookups.
+* [Canada411](http://www.canada411.ca) - Search by person, phone number, and business. Free.
+* [Classmates](http://www.classmates.com) - High-school focused people search. Free acounts allow creating a profile and viewing other members. Premium account required to contact other members.
+* [CrunchBase](http://www.crunchbase.com) - Business information database, with a focus on investment, acquisition, and executive data. Ancillary focus on market research and connecting founders and investors.
+* [Digital Footprint Check](https://www.cyberoneintel.com/digitalfootprint) - Search the internet including social media accounts, employment history, dating profiles, gaming profiles, dark web credential breaches, indexed search engine occurrences, and more.
+* [FaceCheck.ID](https://facecheck.id) - Search the internet by face.
+* [Family Search](https://familysearch.org) - Popular genealogy site. Free, but registration requried. Funded by The Church Of Jesus Christ of Latter-day Saints.
+* [Federal Bureau of Prisons - Inmate Locator (US)](http://www.bop.gov/inmateloc) - Search federal inmates incarcerated from 1982 to the present. 
+* [Fold3 (US Military Records)](http://www.fold3.com) - Search military records. Search filters limited with free access. Premium access requires subscription.
+* [Genealogy Bank](http://www.genealogybank.com) - Premium data, free trial with credit card.
+* [Genealogy Links](http://www.genealogylinks.net) - Genealogy directory with over 50K links.
+* [Homemetry](https://homemetry.com) - Reverse address search and allows searching for properties for sale/rent.
+* [Judyrecords](https://www.judyrecords.com/) - Free. Nationwide search of 400 million+ United States court cases.
+* [Kompass](http://www.kompass.com) - Business directory and search.
+* [OpenSanctions](https://www.opensanctions.org/search/) - Information on sanctions and public office holders.
+* [The National Archives (UK)](http://www.nationalarchives.gov.uk) - Search UK national archives.
+* [Reunion](http://reunion.com) - People search. Limited free info, premium data upsell.
+* [SearchBug](http://www.searchbug.com) - People search. Limited free info, premium data upsell.
+* [Spokeo](http://www.spokeo.com) - People search. Limited free info, premium data upsell.
+* [UniCourt](https://unicourt.com/) - Limited free searches, premium data upsell. Nationwide search of 100 million+ United States court cases.
+* [White Pages (US)](http://www.whitepages.com) - People search. Limited free info, premium data upsell.
+* [ZabaSearch](https://www.zabasearch.com/)
+* [JailBase](https://www.jailbase.com/) - is an information site that allows you to search for arrested persons you might know, and even get notified if someone you know gets arrested.
+* [Mugshots](https://mugshots.com/)
+* [BeenVerified](https://www.backgroundchecks.com/solutions/beenverified)
+
+## REALTIME SOCIALMEDIA SEARCH
+* [shodan.io](https://www.shodan.io/)
+* [viewdns.com](https://viewdns.info/)
+* [whatsmyipaddress](https://whatismyipaddress.com)
+* [bgp/network routing](https://www.he.net/)		
+* [frrrouting](https://frrouting.org/)
+* [iplogger](https://iplogger.org/)
+* [WiGLE.net](https://wigle.net/) - Information about wireless networks world-wide, with user-friendly desktop and web applications.
+* [pentest-tools.com](https://pentest-tools.com)
+* [Osint Online](https://intelx.io/)
+* [Intrigue](http://intrigue.io) - Automated OSINT & Attack Surface discovery framework with powerful API, UI and CLI.
+* [osint tools](https://www.advisor-bm.com/osint-tools)
+* [Osint Online Tools](https://inteltechniques.com/tools/index.html)
+* [Osint Data Visualization Tool](https://osintcombine.tools/)
+* [Osint ihunt intel](https://nitinpandey.in/ihunt/)
+* [online investigator tools](https://abhijithb200.github.io/investigator/)
+* [Osint Social Media tools](https://www.osinttechniques.com/)
+* [Audiense](https://www.audiense.com) - Tool to identify relevant audience, discover actionable insights and inform strategies to grow your business.
+* [Bottlenose](http://bottlenose.com)
+* [Brandwatch](https://www.brandwatch.com)
+* [Buffer](https://buffer.com)
+* [Buzz sumo](http://buzzsumo.com) - "Use our content insights to generate ideas, create high-performing content, monitor your performance and identify influencers."
+* [Epieos](https://epieos.com) - Search for social accounts with e-mail and phone
+* [Geocreepy](http://www.geocreepy.com)
+* [Geofeedia](https://geofeedia.com)
+* [Hootsuite](http://hootsuite.com)
+* [Hashtatit](http://www.hashatit.com)
+* [Klear](http://klear.com)
+* [IDCrawl](https://www.idcrawl.com/) - Search for a name in popular social networks.
+* [MustBePresent](http://mustbepresent.com)
+* [Netvibes](http://www.netvibes.com)
+* [OpinionCrawl](http://www.opinioncrawl.com)
+* [Rival IQ](https://www.rivaliq.com)
+* [SocialBakers](http://www.socialbakers.com)
+* [SociaBlade](http://socialblade.com)
+* [Social DownORNot](http://social.downornot.com)
+* [SocialGrep](https://socialgrep.com) - a Reddit search engine/analysis tool, "signals out of the social web of noise."
+* [Social Searcher](http://www.social-searcher.com)
+* [Tagboard](https://tagboard.com)
+* [Trackur](http://www.trackur.com)
+* [UVRX](http://www.uvrx.com/social.html)
+* [Mail.Ru Social Network Search](https://go.mail.ru/search_social)
+* [Kribrum](https://kribrum.io/)
+* [WATools](https://watools.io/)
+* [Profil3r](https://github.com/Rog3rSm1th/Profil3r)
+* [Oblivion](https://github.com/loseys/Oblivion)
+
+## SOCIAL TOOLS
+### [↑](#-table-of-contents) Twitter
+
+* [ExportData](https://www.exportdata.io/) - Data export tool for historical tweets, followers & followings and historical trends.
+* [Foller.me](http://foller.me)
+* [HappyGrumpy](https://www.happygrumpy.com)
+* [MyTweetAlerts](https://www.mytweetalerts.com/) - A tool to create custom email alerts based on Twitter search.
+* [OneMillionTweetMap](http://onemilliontweetmap.com)
+* [RiteTag](https://ritetag.com)
+* [Sentiment140](http://www.twittersentiment.appspot.com)
+* [Tagdef](https://tagdef.com)
+* [Trends Predictions](https://trendspredictions.com/) - A tool for discovering new trending topics.
+* [Trends24](http://trends24.in)
+* [TwChat](http://twchat.com)
+* [TweetDeck](https://www.tweetdeck.com)
+* [TweetMap](http://mapd.csail.mit.edu/tweetmap)
+* [TweetMap](http://worldmap.harvard.edu/tweetmap)
+* [Twitter Advanced Search](https://twitter.com/search-advanced?lang=en)
+* [Twitter Audit](https://www.twitteraudit.com)
+* [Twitter Chat Schedule](http://tweetreports.com/twitter-chat-schedule)
+* [Twitter Search](http://search.twitter.com)
+* [Twitter Search](https://nitter.net/)
+* [Twitter Maps Tweet search](https://twimap.com/)
+* [Twitter Maps Tweet search-2](https://www.heavy.ai/demos/tweetmap)
+* [Twitter Maps Tweet search-3](https://botsentinel.com/)
+
+### [↑](#-table-of-contents) Facebook
+
+* [Facebook find id](https://findidfb.com/#)
+* [Facebook Url Stalk-1](https://comostalkear.online/)
+* [Facebook Url Stalk-2](https://www.spoofbox.com/en/tool/stalk-scan)
+* [Facebook Url Stalk-3](https://stalkface.com)
+* [Facebook Sow Search](https://sowsearch.info/)
+* [Agora Pulse](http://barometer.agorapulse.com)
+* [Fanpage Karma](http://www.fanpagekarma.com)
+* [Facebook Friend List Scraper](https://github.com/narkopolo/fb_friend_list_scraper) - Tool for scraping large Facebook friend lists without being rate-limited.
+* [Facebook Search](http://search.fb.com/)
+* [Fb-sleep-stats](https://github.com/sqren/fb-sleep-stats)
+* [Find my Facebook ID](https://randomtools.io)
+* [Lookup-ID.com](https://lookup-id.com)
+* [SearchIsBack](https://searchisback.com)
+* [Wolfram Alpha Facebook Report](http://www.wolframalpha.com/input/?i=facebook+report)
+* [haveibeenzuckered](https://haveibeenzuckered.com/) - A large dataset containing 533 million Facebook accounts was made available for download. The data was obtained by exploiting a vulnerability that was, according to Facebook, corrected in August 2019. Check if a telephone number is present within the Facebook data breach.
+
+### [↑](#-table-of-contents) Instagram
+* [Instagram Search](https://www.picuki.com/search/)
+* [Hashtagify](http://hashtagify.me)
+* [Iconosquare](http://iconosquare.com)
+* [Osintgram](https://github.com/Datalux/Osintgram) - Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname. 
+* [Picodash](https://www.picodash.com)
+* [Sterra](https://github.com/novitae/sterraxcyl)
+* [Toutatis](https://github.com/megadose/toutatis)
+
+### [↑](#-table-of-contents) Pinterest
+
+* [Pingroupie](http://pingroupie.com)
+
+### [↑](#-table-of-contents) Reddit
+
+*Tools to help discover more about a reddit user or subreddit.*
+
+* [Imgur](http://imgur.com/search?q=) - The most popular image hosting website used by redditors.
+* [Mostly Harmless](http://kerrick.github.io/Mostly-Harmless/#features) - Mostly Harmless looks up the page you are currently viewing to see if it has been submitted to reddit.
+* [Reddit Archive](http://www.redditarchive.com) - Historical archives of reddit posts.
+* [Reddit Suite](https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb) - Enhances your reddit experience.
+* [Reddit User Analyser](https://atomiks.github.io/reddit-user-analyser/) - reddit user account analyzer.
+* [Subreddits](http://subreddits.org) - Discover new subreddits.
+* [Reddit Comment Search](https://redditcommentsearch.com/) - Analyze a reddit users by comment history.
+* [Universal Scammer List](https://universalscammerlist.com/) - This acts as the website-portion for the subreddit /r/universalscammerlist. That subreddit, in conjuction with this website and a reddit bot, manages a list of malicious reddit accounts and minimizes the damage they can deal. This list is referred to as the "USL" for short.
+* [Reddit Comment Lookup](https://randomtools.io/reddit-comment-search/) - Search for reddit comments by reddit username.
 
 
 [Back to top](#top)
