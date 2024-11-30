@@ -25,14 +25,13 @@
 * [Linux Command Library](https://linuxcommandlibrary.com/basic/oneliners)
 
 
-[PHONE NUMBERS](#PHONE-NUMBERS)
-[USERNAME CHECK](#USERNAME-CHECK)
-[EMAIL CHECK//DATA BREACH](#EMAIL-CHECK)
-[PEOPLE OSINT](#PEOPLE-OSINT)
-[REALTIME SOCIALMEDIA SEARCH](#REALTIME-SOCIAMEDIA-SEARCH)
-[SOCIALMEDIA TOOLS FACEBOOK|TWITTER|INSTAGRAM|PINTEREST|REDDIT|](#SOCIAL-TOOLS)
-
-[](#)
+- [PHONE NUMBERS](#PHONE-NUMBERS)
+- [USERNAME CHECK](#USERNAME-CHECK)
+- [EMAIL CHECK//DATA BREACH](#EMAIL-CHECK)
+- [PEOPLE OSINT](#PEOPLE-OSINT)
+- [REALTIME SOCIALMEDIA SEARCH](#REALTIME-SOCIAMEDIA-SEARCH)
+- [SOCIALMEDIA TOOLS FACEBOOK|TWITTER|INSTAGRAM|PINTEREST|REDDIT|](#SOCIAL-TOOLS)
+- [SOCIAL MEDIA COMMENTS/POSTS SEARCH](#SOCIAL-COMMENTS-POSTS-SEARCH)
 
 [](#)
 
@@ -440,5 +439,14 @@
 * [Universal Scammer List](https://universalscammerlist.com/) - This acts as the website-portion for the subreddit /r/universalscammerlist. That subreddit, in conjuction with this website and a reddit bot, manages a list of malicious reddit accounts and minimizes the damage they can deal. This list is referred to as the "USL" for short.
 * [Reddit Comment Lookup](https://randomtools.io/reddit-comment-search/) - Search for reddit comments by reddit username.
 
+## SOCIAL COMMENTS POSTS SEARCH
+* [Social Networks Post Search](https://whopostedwhat.com/)
+* [Social Media Posts Search](https://www.smat-app.com )
+* [Export Social Comments](https://exportcomments.com/)
+* [Gephi](https://gephi.org) - is an open-source graph and network visualization software.
+* [ORA](http://www.casos.cs.cmu.edu/projects/ora/software.php)
+* [Sentinel Visualizer](http://www.fmsasg.com)
+* [Wynyard Group](https://wynyardgroup.com)
+* [Visual Investigative Scenarios](https://vis.occrp.org)
 
 [Back to top](#top)
