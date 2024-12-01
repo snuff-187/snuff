@@ -322,6 +322,27 @@
 * [BeenVerified](https://www.backgroundchecks.com/solutions/beenverified)
 
 ## REALTIME SOCIALMEDIA SEARCH
+- [Echosec](https://www.echosec.net/)
+- [Foller](https://foller.me/)
+- [Tweet Deck](https://tweetdeck.twitter.com/)
+- [Tweet Trips](https://www.tweetedtrips.com/)
+- [Tweet Tonomy](http://www.twitonomy.com/)
+- [Twinangulate](https://www.twiangulate.com/search/)
+- [Geosocial](http://geosocialfootprint.com/)
+- [Hash tracking](https://www.hashtracking.com/)
+- [Socmint tool](http://socmint.tools/)
+- [Spyse](https://spyse.com/)
+- [OSINT Combine](https://www.osintcombine.com/tools)
+- [Cell Id Lookup](https://www.reskrim.com/cek.php)
+- [Device Info](https://www.deviceinfo.me/)
+- [Cell Finder](https://cellidfinder.com/)
+- [GRABIFY IP](https://grabify.link/)
+- [Cek Rekening](https://cekrekening.id/home)
+- [Thatsthem](https://thatsthem.com/)
+- [IntelligenceX](https://intelx.io/tools)
+- [lolarchiver](https://osint.lolarchiver.com/#)
+- [cybdetective public tool](https://cybdetective.com/)
+- [OSINT indsutries](https://www.osint.industries/)
 * [shodan.io](https://www.shodan.io/)
 * [viewdns.com](https://viewdns.info/)
 * [whatsmyipaddress](https://whatismyipaddress.com)
@@ -369,7 +390,18 @@
 * [Oblivion](https://github.com/loseys/Oblivion)
 
 ## SOCIAL TOOLS
-### [↑](#-table-of-contents) Twitter
+## TIKTOK 
+- [tiktok-hashtag-analysis](https://github.com/bellingcat/tiktok-hashtag-analysis)
+- [tiktok-downloader](https://github.com/Gimenz/tiktok-downloader)
+- [tiktok API](https://pypi.org/project/TikTokApi/)
+- [tiktok date extract](https://bellingcat.github.io/tiktok-timestamp/)
+- [Gimenz tiktok downloader](https://github.com/Gimenz/tiktok-downloader)
+- [exportcomments](https://exportcomments.com/)
+
+- 
+
+
+## TWITTER
 
 * [ExportData](https://www.exportdata.io/) - Data export tool for historical tweets, followers & followings and historical trends.
 * [Foller.me](http://foller.me)
@@ -393,8 +425,86 @@
 * [Twitter Maps Tweet search](https://twimap.com/)
 * [Twitter Maps Tweet search-2](https://www.heavy.ai/demos/tweetmap)
 * [Twitter Maps Tweet search-3](https://botsentinel.com/)
+* - [Hoaxy](https://hoaxy.osome.iu.edu/)
+- [Twitter API](https://developer.x.com/en/docs/twitter-api/getting-started/about-twitter-api)
+- [search.twitter.com](https://twitter.com/search-home)
+- [twitter advanced](https://www.twitter.com/search-advanced)
+- [twitter who_to_follow](https://www.twitter.com/who_to_follow)
+- [Backtweets](http://backtweets.com) BackTweets is a Twitter analytics tool that allows users to search through a Tweet archive.
+- [First Tweet](http://ctrlq.org/first)
+- [Foller.me](http://foller.me)
+- [Followerwonk](http://followerwonk.com)
+- [GeoSocial Footprint](http://geosocialfootprint.com)
+- [Gigatweeter](http://gigatweeter.com)
+- [Harvard TweetMap](http://worldmap.harvard.edu/tweetmap)
+- [Hashtagify](http://hashtagify.me)
+- [Hashtags.org](http://www.hashtags.org)
+- [MyTweetAlerts](https://www.mytweetalerts.com/) A tool to create custom email alerts based on Twitter search.
+- [OneMillionTweetMap](http://onemilliontweetmap.com)
+- [SnapBird](http://snapbird.org)
+- [Social Bearing](http://www.socialbearing.com)
+- [Social Rank First Follower](http://socialrank.com/firstfollower)
+- [Spoonbill](http://spoonbill.io)
+- [Tagdef](https://tagdef.com)
+- [TeachingPrivacy](http://app.teachingprivacy.com)
+- [Tinfoleak](https://tinfoleak.com)
+- [Trends24](http://trends24.in)
+- [TrendsMap](http://trendsmap.com)
+- [Ttrends](https://ttrends.co)
+- [twbirthday](http://twbirthday.com)
+- [TwChat](http://twchat.com)
+- [tweepsect](http://tweepsect.com)
+- [TweetArchivist](http://www.tweetarchivist.com)
+- [TweetDeck](https://www.tweetdeck.com)
+- [Tweeten](http://tweeten.xyz)
+- [TweetMap](http://mapd.csail.mit.edu/tweetmap)
+- [TweetMap](http://worldmap.harvard.edu/tweetmap)
+- [TweetPsych](http://tweetpsych.com)
+- [Tweetreach](http://tweetreach.com)
+- [TweetStats](http://www.tweetstats.com)
+- [TweetTunnel](http://tweettunnel.com)
+- [Twellow](http://www.twellow.com)
+- [Tweriod](http://www.tweriod.com)
+- [Twiangulate](http://www.twiangulate.com)
+- [Twilert](http://www.twilert.com)
+- [Twipho](http://www.twipho.net)
+- [Twitonomy](http://www.twitonomy.com)
+- [TwitRSS](https://twitrss.me)
+- [Twitter Advanced Search](https://twitter.com/search-advanced?lang=en)
+- [Twitter Audit](https://www.twitteraudit.com)
+- [Twitter Chat Schedule](http://tweetreports.com/twitter-chat-schedule)
+- [Twitter Counter](http://twittercounter.com)
+- [Twitterfall](http://twitterfall.com)
+- [Twitter Search](http://search.twitter.com)
+- [TWUBS Twitter Chat](http://twubs.com/twitter-chats)
+- [Schedule Warble](https://warble.co)
+- [Twint](https://github.com/twintproject/twint)
+- [Twitwork](https://github.com/atmoner/TwitWork)
+- [Twitter Account Profiler](https://www.sotwe.com/)
+- [Twitter Account Profiler](https://twstalker.com/)
+- [Twitter Archive](https://github.com/humandecoded/twayback)
+- [History Twitter](https://memory.lol/app/)
+- [Wayback Twitter](https://waybacktweets.streamlit.app/)
+- [Twitter BOT](https://botometer.osome.iu.edu/)
+- [Treverse](https://github.com/paulgb/Treeverse/blob/master/README.md?utm_content=buffer33d48&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#readme)
+- [Tweetbinder](https://www.tweetbinder.com/)
+- [onemilliontweetmap](https://onemilliontweetmap.com/)
+- [birdhunt](https://birdhunt.co/)
+- [exportcomments](https://exportcomments.com/)
+- [followeraudit](https://www.followeraudit.com/)
+- [knowlesys](https://knowlesys.com/index.html)
+- [stweet](https://github.com/markowanga/stweet)
+- [tweepy](https://www.tweepy.org/)
+- [twtdata](https://www.twtdata.com/)
 
-### [↑](#-table-of-contents) Facebook
+Twitter Search Engine 
+
+- [tweetpaths](http://www.tweetpaths.com)
+- [allmytweets](http://www.allmytweets.com)
+- [Twimemachine](https://www.twimemachine.com)
+- [inteltechniques](http://inteltechniques.com/osint/twitter.html)
+
+## FACEBOOK
 
 * [Facebook find id](https://findidfb.com/#)
 * [Facebook Url Stalk-1](https://comostalkear.online/)
@@ -411,8 +521,38 @@
 * [SearchIsBack](https://searchisback.com)
 * [Wolfram Alpha Facebook Report](http://www.wolframalpha.com/input/?i=facebook+report)
 * [haveibeenzuckered](https://haveibeenzuckered.com/) - A large dataset containing 533 million Facebook accounts was made available for download. The data was obtained by exploiting a vulnerability that was, according to Facebook, corrected in August 2019. Check if a telephone number is present within the Facebook data breach.
+- [Intel Technique](https://inteltechniques.com/osint/facebook.html)
+- [DumpItBlue](http://le-tools.com/DumpItBlue.html)
+- [Facebook Search](http://search.fb.com/)
+- [Fb-sleep-stats](https://github.com/sqren/fb-sleep-stats)
+- [Lookup-ID.com](https://lookup-id.com)
+- [SearchIsBack](https://searchisback.com)
+- [Wolfram Alpha Facebook Report](http://www.wolframalpha.com/input/?i=facebook+report)
+- [Facebook Recover Lookup](https://web.facebook.com/login/identify?ctx=recover&_rdc=1&_rdr)
+- [Who posted facebook](https://whopostedwhat.com/)
+- [sowsearch](https://www.sowsearch.info/)
+- [Hastag Analzer](https://www.hashatit.com/)
+- [Export comment](https://exportcomments.com/)
+- [Facebook endpoint](https://plessas.net/facebookmatrix)
+- [Facebook Graph](https://graph.tips/facebook.html) 
+- [Facebook live](https://www.facebook.com/watch/live/?ref=live_delegate)
+- [Facebook vid downloader](https://fdown.net/)
+- [Fb Sleep Stats](https://github.com/sorenlouv/fb-sleep-stats)
+- [Skopenow FB Hunter](https://www.skopenow.com/)
+- [Facebook Data Breach Cheker](https://haveibeenzuckered.com/)
+- [F**ck Facebook Github](https://github.com/Ph4nToM00/FuckFacebook)
+- [exportcomments](https://exportcomments.com/)
 
-### [↑](#-table-of-contents) Instagram
+## ONLYFANS
+
+- [fansmetrics](https://fansmetrics.com/)
+- [onlysearch](https://onlysearch.co/)
+- [onlyfinder](https://onlyfinder.com/)
+- [onlyfans search](https://hubite.com/en/onlyfans-search/)
+- [fansearch](https://www.fansearch.com/)
+
+
+### INSTAGRAM
 * [Instagram Search](https://www.picuki.com/search/)
 * [Hashtagify](http://hashtagify.me)
 * [Iconosquare](http://iconosquare.com)
@@ -420,15 +560,52 @@
 * [Picodash](https://www.picodash.com)
 * [Sterra](https://github.com/novitae/sterraxcyl)
 * [Toutatis](https://github.com/megadose/toutatis)
+* - [Hashtagify](http://hashtagify.me)
+- [Iconosquare](http://iconosquare.com)
+- [Picodash](https://www.picodash.com)
+- [Toutatis](https://github.com/megadose/toutatis)
+- [SearchMyBio](https://www.searchmy.bio/)
+- [Dumpor](https://dumpor.com/)
+- [Hookgram](https://hookgram.com/)
+- [Picuki](https://www.picuki.com/)
+- [Inflact](https://inflact.com/)
+- [Greatfon](https://greatfon.com/)
+- [Save Free](https://www.save-free.com/)
+- [Insta Location Search](https://github.com/bellingcat/instagram-location-search)
+- [Insta story visual maps](https://github.com/Jasawn/python-instagram-story-visualiser)
+- [Snap Insta](https://snapinsta.app/)
+- [Insta Profiler](https://imginn.io/)
+- [Insta Loader](https://github.com/instaloader/instaloader)
+- [Storistalker](https://storistalker.com/#back)
+- [instahunt](https://instahunt.co/)
+- [Sterraxcyl IG Profiler](https://github.com/novitae/sterraxcyl)
+- [exportcomments](https://exportcomments.com/)
+- [Blastup - Insta Downloader](https://blastup.com/instagram-downloader)
+- [Insta Stories View](https://storiesdown.com/)
+- [Instagram Auditor](https://socialauditor.io/)
+- [Instagram Auditor 2](https://hypeauditor.com/free-tools/instagram-audit/?username=indozone.id)
+- [upfluence](https://www.upfluence.com/instagram-audit-tool)
+- [toolzu](https://toolzu.com/)
+- [pathsocial](https://www.pathsocial.com/id/)
+- [export comment Insta](https://exportgram.net/)
 
-### [↑](#-table-of-contents) Pinterest
+## PINTEREST
 
 * [Pingroupie](http://pingroupie.com)
+* - [Pingroupie](http://pingroupie.com)
+- [Pinterest Downloader](https://www.expertsphp.com/pinterest-photo-downloader.html)
+- [Pinterset Guest](https://addons.mozilla.org/en-US/firefox/addon/pinterest-guest/)
+- [Pinterest search](https://sourcinglab.io/search/pinterest)
 
-### [↑](#-table-of-contents) Reddit
-
-*Tools to help discover more about a reddit user or subreddit.*
-
+## REDDIT
+- [karmadecay](http://karmadecay.com/)
+- [reddit post analyser](https://www.osintcombine.com/reddit-post-analyser)
+- [Archive Reddit](https://www.redditarchive.com/)
+- [Reddit Search](https://redditcommentsearch.com/)
+- [Vizit](https://redditstuff.github.io/sna/vizit/)
+- [Sub reddit](https://subreddits.org/)
+- [RedActive](https://www.redective.com/)
+- [f5bot](https://f5bot.com/)
 * [Imgur](http://imgur.com/search?q=) - The most popular image hosting website used by redditors.
 * [Mostly Harmless](http://kerrick.github.io/Mostly-Harmless/#features) - Mostly Harmless looks up the page you are currently viewing to see if it has been submitted to reddit.
 * [Reddit Archive](http://www.redditarchive.com) - Historical archives of reddit posts.
@@ -439,7 +616,7 @@
 * [Universal Scammer List](https://universalscammerlist.com/) - This acts as the website-portion for the subreddit /r/universalscammerlist. That subreddit, in conjuction with this website and a reddit bot, manages a list of malicious reddit accounts and minimizes the damage they can deal. This list is referred to as the "USL" for short.
 * [Reddit Comment Lookup](https://randomtools.io/reddit-comment-search/) - Search for reddit comments by reddit username.
 
-## SOCIAL COMMENTS POSTS SEARCH
+## SOCIAL COMMENTS AND POSTS SEARCH
 * [Social Networks Post Search](https://whopostedwhat.com/)
 * [Social Media Posts Search](https://www.smat-app.com )
 * [Export Social Comments](https://exportcomments.com/)
@@ -448,5 +625,50 @@
 * [Sentinel Visualizer](http://www.fmsasg.com)
 * [Wynyard Group](https://wynyardgroup.com)
 * [Visual Investigative Scenarios](https://vis.occrp.org)
+
+## YOUTUBE 
+- [citizenevidence](https://citizenevidence.amnestyusa.org/)
+- [watchframebyframe](http://www.watchframebyframe.com/)
+- [YT Mtedata](https://mattw.io/youtube-metadata/)
+- [TY Geo Find](https://mattw.io/youtube-geofind/)
+- [YT chat downloader](https://github.com/xenova/chat-downloader)
+- [youtubecommentsdownloader](https://youtubecommentsdownloader.com/)
+- [ytcomment](https://ytcomment.kmcat.uk/)
+- [exportcomments](https://exportcomments.com/)
+- [yark YT archiving](https://github.com/Owez/yark)
+- [Downsub](https://downsub.com/)
+- [Savesubs](https://savesubs.com/)
+
+## TELEGRAM 
+Search channel, username anymore
+
+- [Telegago](https://cse.google.com/cse?cx=006368593537057042503:efxu7xprihg#gsc.tab=0)
+- [TelegramDB](http://www.telegramdb.org/)
+- [Telegram Search Engine](https://xtea.io/)
+- [Telegram Database: channels, groups and users](https://t.me/s/privatelinks)
+- [Telegram channels and groups catalog](https://tgstat.com/)
+- [Social Finder](https://socialfinder.app/list/Telegram)
+- [Lyzem Search](https://lyzem.com/)
+- [Discover The Best Telegram Channels](https://telegramchannels.me/)
+- [Tele Channel Overiview](https://telemetr.io/)
+- [Telepathy](https://github.com/proseltd/Telepathy)
+- [Telemetr](https://telemetr.io/)
+- [Telegramtrac](https://github.com/claromes/telegramtrac)
+- [TGDev](https://tgdev.io/)
+- [IntelX Telegram](https://intelx.io/tools?tab=telegram)
+- [Tele Geo Int](https://github.com/Alb-310/Geogramint)
+- [Tele Phone Number Checker - Bellingcat](https://github.com/bellingcat/telegram-phone-number-checker)
+- [Telegram Geogramint](https://github.com/Alb-310/Geogramint)
+- [Telegram-Trilateration](https://github.com/jkctech/Telegram-Trilateration)
+- [TeleTracker by Tsale](https://github.com/tsale/TeleTracker)
+- [Teletehon](https://docs.telethon.dev/en/stable/basic/installation.html)
+- [Bellingcat Telegram Joiner](https://bellingcat.github.io/telegram-group-joiner/)
+
+  ## SNAPCHAT
+- [Snapchat MAP](https://map.snapchat.com/)
+- [Snapchat Map scrapping](https://github.com/nemec/snapchat-map-scraper)
+- [SnapIntel](https://github.com/Kr0wZ/SnapIntel)
+ 
+
 
 [Back to top](#top)
