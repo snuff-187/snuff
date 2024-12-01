@@ -668,7 +668,17 @@ Search channel, username anymore
 - [Snapchat MAP](https://map.snapchat.com/)
 - [Snapchat Map scrapping](https://github.com/nemec/snapchat-map-scraper)
 - [SnapIntel](https://github.com/Kr0wZ/SnapIntel)
- 
 
+ ## TEMP PHONE NUMBERS AND EMAILS
+
+- [Temp Phone Number](https://temporary-phone-number.com/)
+- [Temp Phone Number and SMS activate](https://sms-activate.org/en)
+- [Temp Phone Number SMS Receive](https://temp-number.org/)
+- [Temp Mail 1](https://mail.tm/en/)
+- [Temp Mail 2](https://temp-mail.org/en/)
+- [Temp Mail 3](https://tempmailo.com/)
+- [Temp Mail 4](https://www.guerrillamail.com/)
+- [Temp Mail 5](https://www.mailinator.com/)
+- [fake message generator](https://fakeinfo.net/fake-android-text-message-generator)
 
 [Back to top](#top)
